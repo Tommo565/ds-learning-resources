@@ -84,6 +84,7 @@ How to auto-generate requirements.txt using pip freeze
 * [A Template for a good README (MD Template)](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) Good template to follow when creating a README.md.
 * [How to make a Python Package (Tutorial)](https://python-packaging.readthedocs.io/en/latest/minimal.html) Great guide on how to make a Python package.
 * [Parallel Processing in Python (Tutorial)](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) Tutorial on multithreading and multiprocessing. 
+* [Running Dask with SciKitLearn (Notebook)](http://matthewrocklin.com/blog/work/2017/02/07/dask-sklearn-simple) Jupyter Notebook showing how you can speed up SKL Grid/Random Searches using Dask.
 
 ## R
 

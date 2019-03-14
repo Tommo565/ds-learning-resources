@@ -56,6 +56,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Visualising Multivariate Data (Article)](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 * [WTF is the bias/variance tradeoff? (Article)](https://elitedatascience.com/bias-variance-tradeoff)
 * [Heteroscedasticity Explained (Article)](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
+* [Understanding Regression Error (Article)](https://www.dataquest.io/blog/understanding-regression-error-metrics)  
 
 ## Geographic
 

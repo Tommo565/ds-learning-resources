@@ -166,3 +166,5 @@ How to auto-generate requirements.txt using pip freeze
 Also see [departmentfortransport/ds-data-sources](https://github.com/departmentfortransport/ds-data-sources).
 
 * [Random User Data](https://randomuser.me/) Generates random user data through an API
+* [UCI ML Data](https://archive.ics.uci.edu/ml/datasets.html) Hundreds of datasets well suited to applying ML to.
+ 

@@ -181,10 +181,10 @@ Also see [departmentfortransport/ds-data-sources](https://github.com/departmentf
 
 ### GCP
 
-* [Condensed GCP Reference](https://github.com/gregsramblings/google-cloud-4-words)
-* [GCP Products Cheat Sheet](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/Poster-medres.png)
-* [GCP Regions List](https://cloud.google.com/compute/docs/regions-zones/)
-* [Creating & Managing Cloud SQL Instances](https://cloud.google.com/sql/docs/mysql/create-manage-databases)
-* [Create a Cloud SQL User](https://cloud.google.com/sql/docs/mysql/create-manage-users)
-* [GCP Cloud SQL Proxy](https://cloud.google.com/sql/docs/mysql/sql-proxy)
-* [Connecting to Cloud SQL from External Apps](https://cloud.google.com/sql/docs/mysql/connect-external-app#proxy)
+* [Condensed GCP Reference](https://github.com/gregsramblings/google-cloud-4-words) Excellent condensed reference for GCP.
+* [GCP Products Cheat Sheet](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/Poster-medres.png) A cheatsheet for GCP Products.
+* [GCP Regions List](https://cloud.google.com/compute/docs/regions-zones/) A cheatsheet for GCP region decodes.
+* [Creating & Managing Cloud SQL Instances](https://cloud.google.com/sql/docs/mysql/create-manage-databases) Guide on how to create and manage GCP Cloud SQL Instances.
+* [Create a Cloud SQL User](https://cloud.google.com/sql/docs/mysql/create-manage-users) Guide on how to create aa Cloud SQL user.
+* [GCP Cloud SQL Proxy](https://cloud.google.com/sql/docs/mysql/sql-proxy) Guide on the GCP Cloud SQL Proxy.
+* [Connecting to Cloud SQL from External Apps](https://cloud.google.com/sql/docs/mysql/connect-external-app#proxy) How to connect your apps to Cloud SQL.

@@ -47,7 +47,6 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Data Science Primer (Tutorial)](https://elitedatascience.com/primer) Overview of the steps in building a Machine Learning model.  
 * [Getting Better at Machine Learning (Article)](https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f)  
 * [Time Series Forcasting with Naive Bayes (Article + Notebook)](https://github.com/departmentfortransport/ds-learning-resources) Good step by step guide to time series forecasting with Naive Bayes and a great example notebook.  
-* [Text Classification (Article)](https://developers.google.com/machine-learning/guides/text-classification/) Google's guide to text classification.
 * [What is Feature Engineering? (Article)](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)
 * [What is One Hot Encoding? (Article)](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 * [Introduction to K-Nearest Neighbours (Article)](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26) Good intro to Knn
@@ -61,34 +60,42 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 ## Text & NLP
 
 * [Regex Tester & Debugger (Tool)](https://www.regextester.com/) Great tool for creating and debugging Regular Expressions.
+* [Text Classification (Article)](https://developers.google.com/machine-learning/guides/text-classification/) Google's guide to text classification.
 
 ## Geographic
 
 * [Mapshaper (Tool)](http://mapshaper.org/) Online editor for map data. Allows you to take most GIS data formats and visualise / simplify them.
 
-
 ## Python
+
+### General
+
+* [Hitchhiker's Guide to Python (Online Book)](http://docs.python-guide.org/en/latest/) A daily usage "best practice handbook" for Python. The section on [code structure and style](http://docs.python-guide.org/en/latest/#writing-great-python-code) is particularly good.
+* [Parallel Processing in Python (Tutorial)](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) Tutorial on multithreading and multiprocessing. 
+
+### Flask
+
+* [Miguel Grinberg's Flask Blog (Website)](https://blog.miguelgrinberg.com/index) Lots of tutorials on various Flask features.
+* [Creating a REST API with Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask) How to create a REST API with Flask.
+* [Auto Generating Requirements.txt (Article)](https://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/) 
+How to auto-generate requirements.txt using pip freeze
+* [A Template for a good README (MD Template)](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) Good template to follow when creating a README.md.
+* [How to make a Python Package (Tutorial)](https://python-packaging.readthedocs.io/en/latest/minimal.html) Great guide on how to make a Python package.
+
+### Data Science / Analysis
 
 * [Complete Python Bootcamp (Udemy Course)](https://www.udemy.com/complete-python-bootcamp/) Really good introduction to Python using Jupyter Notebooks.
 * [Python for Data Analysis & Visualisation (Udemy Course)](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/) Excellent intro to the data analyis libraries in Python.
 * [Python for Data Science & Machine Learning (Udemy Course)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) Very good introduction to Python for Data Science.
-* [Hitchhiker's Guide to Python (Online Book)](http://docs.python-guide.org/en/latest/) A daily usage "best practice handbook" for Python. The section on [code structure and style](http://docs.python-guide.org/en/latest/#writing-great-python-code) is particularly good.
 * [Python for Analysts (Github Repo)](https://github.com/Tommo565/Python-for-Analysts) Tom's Python for analysts training course. This probably needs updating.
 * [Exploratory Data Analysis in Python (EBook)](http://greenteapress.com/thinkstats2/thinkstats2.pdf) Excellent book on statistical data analysis in Python.
 * [Python Graph Gallery (Website)](https://python-graph-gallery.com/) Gallery of lots of Python charts complete with source code.
-* [Miguel Grinberg's Flask Blog (Website)](https://blog.miguelgrinberg.com/index) Lots of tutorials on various Flask features.
-* [Python Data Science Handbook (ebook)](https://jakevdp.github.io/PythonDataScienceHandbook/) O'Reilly book on Data Science with Python, covering Numpy, Pandas, Matplotlib and SKL.
+* [Using Jupyter Notebooks in Virtualenv](https://anbasile.github.io/programming/2017/06/25/jupyter-venv/)
 * [Flask for Web Development (Book)](https://www.amazon.co.uk/Flask-Web-Development-Developing-Applications/dp/1449372627) Book detailing end to end web development with Flask.
 * [Datashader with Spark (Article)](http://www.filipyoo.com/plot-visualization-Hadoop-large-dataset-with-python-datashader/) Blog detailing an example of how to use Datashader with big data.
 * [JupyterLab Extensions (Documentation)](http://jupyterlab.readthedocs.io/en/stable/user/extensions.html) How to install JupyterLab extensions.
 * [Jupyter Shortcuts (Article)](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html) List of shortcuts for Jupyter notebooks.
 * [28 Jupyter Tips](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) Some cool tricks in Jupyter notebooks.
-* [Using Jupyter in a Virtual Environment (Article)](https://anbasile.github.io/programming/2017/06/25/jupyter-venv/) Guide on setting up a venv kernel for Jupyter Notebooks
-* [Auto Generating Requirements.txt (Article)](https://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/) 
-How to auto-generate requirements.txt using pip freeze
-* [A Template for a good README (MD Template)](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) Good template to follow when creating a README.md.
-* [How to make a Python Package (Tutorial)](https://python-packaging.readthedocs.io/en/latest/minimal.html) Great guide on how to make a Python package.
-* [Parallel Processing in Python (Tutorial)](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) Tutorial on multithreading and multiprocessing. 
 * [Running Dask with SciKitLearn (Notebook)](http://matthewrocklin.com/blog/work/2017/02/07/dask-sklearn-simple) Jupyter Notebook showing how you can speed up SKL Grid/Random Searches using Dask.
 
 ## R
@@ -149,9 +156,7 @@ How to auto-generate requirements.txt using pip freeze
 
 * [DataVizCatalogue (Website)](https://datavizcatalogue.com/) Nice overview of various chart types and alongside some links to code (usually in Javascript)
 
-
 ## Design
-
 
 * [Material Palette (Website)](https://www.materialpalette.com/) Generates nice colours for an app or design
 * [Cooloors (Website)](https://coolors.co/c5ebc3-b7c8b5-a790a5-875c74-54414e) Site that helps you generate good color palettes
@@ -171,4 +176,15 @@ Also see [departmentfortransport/ds-data-sources](https://github.com/departmentf
 
 * [Random User Data](https://randomuser.me/) Generates random user data through an API
 * [UCI ML Data](https://archive.ics.uci.edu/ml/datasets.html) Hundreds of datasets well suited to applying ML to.
- 
+
+## Cloud
+
+### GCP
+
+* [Condensed GCP Reference](https://github.com/gregsramblings/google-cloud-4-words)
+* [GCP Products Cheat Sheet](https://raw.githubusercontent.com/gregsramblings/google-cloud-4-words/master/Poster-medres.png)
+* [GCP Regions List](https://cloud.google.com/compute/docs/regions-zones/)
+* [Creating & Managing Cloud SQL Instances](https://cloud.google.com/sql/docs/mysql/create-manage-databases)
+* [Create a Cloud SQL User](https://cloud.google.com/sql/docs/mysql/create-manage-users)
+* [GCP Cloud SQL Proxy](https://cloud.google.com/sql/docs/mysql/sql-proxy)
+* [Connecting to Cloud SQL from External Apps](https://cloud.google.com/sql/docs/mysql/connect-external-app#proxy)

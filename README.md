@@ -58,6 +58,10 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Heteroscedasticity Explained (Article)](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
 * [Understanding Regression Error (Article)](https://www.dataquest.io/blog/understanding-regression-error-metrics)  
 
+## Text & NLP
+
+* [Regex Tester & Debugger (Tool)](https://www.regextester.com/) Great tool for creating and debugging Regular Expressions.
+
 ## Geographic
 
 * [Mapshaper (Tool)](http://mapshaper.org/) Online editor for map data. Allows you to take most GIS data formats and visualise / simplify them.

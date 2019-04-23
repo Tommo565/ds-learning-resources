@@ -192,3 +192,4 @@ Also see [departmentfortransport/ds-data-sources](https://github.com/departmentf
 * [Create a Cloud SQL User](https://cloud.google.com/sql/docs/mysql/create-manage-users) Guide on how to create aa Cloud SQL user.
 * [GCP Cloud SQL Proxy](https://cloud.google.com/sql/docs/mysql/sql-proxy) Guide on the GCP Cloud SQL Proxy.
 * [Connecting to Cloud SQL from External Apps](https://cloud.google.com/sql/docs/mysql/connect-external-app#proxy) How to connect your apps to Cloud SQL.
+* [Install and run a Jupyter notebook on a Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)

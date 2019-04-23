@@ -117,6 +117,10 @@ How to auto-generate requirements.txt using pip freeze
 
 ## Javascript / Web Development
 
+## Linux
+
+* [Setting up Ubuntu for Windows](https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/)
+
 ### Testing
 
 * [MS VM Images (Tool)](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) Images of windows machines to allow testing on IE. Note you'll need to install Virtualbox first via `brew cask install virtualbox`

@@ -55,7 +55,31 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Visualising Multivariate Data (Article)](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 * [WTF is the bias/variance tradeoff? (Article)](https://elitedatascience.com/bias-variance-tradeoff)
 * [Heteroscedasticity Explained (Article)](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
-* [Understanding Regression Error (Article)](https://www.dataquest.io/blog/understanding-regression-error-metrics)  
+* [Understanding Regression Error (Article)](https://www.dataquest.io/blog/understanding-regression-error-metrics)
+
+## Time Series (Primarily Python)
+
+* [Python Date / Time Formats (Reference)](http://strftime.org/) Reference site for Python date / time formats
+* [Pandas Frequency Codes (Reference)](https://stackoverflow.com/questions/35339139/where-is-the-documentation-on-pandas-freq-tags)
+* [Pandas Time Series / Date Functionality (Reference)](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
+* [Pandas Date Offset (Reference)](http://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset-objects)
+* [Pandas Timestamp Reference (Reference)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Timestamp.html)
+* [Pandas date_range Reference (Reference)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html)
+* [Pandas Timedelta Reference (Reference)](https://pandas.pydata.org/pandas-docs/stable/user_guide/timedeltas.html)
+* [Pandas Date Offset Reference (Reference)](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#timeseries-offset-aliases)
+* [Python datetime Reference (Reference)](https://docs.python.org/3/library/datetime.html)
+* [What is Autocorrelation (Article)](https://www.displayr.com/autocorrelation/)
+* [Autocorrelation Plot (Correlogram)](https://www.dummies.com/programming/big-data/data-science/autocorrelation-plots-graphical-technique-for-statistical-data/) Explanation of an Autocorrelation plot.
+* [Autocorrelation in Python](https://s3.amazonaws.com/assets.datacamp.com/production/course_4267/slides/chapter2.pdf) Datacamp slide deck of autocorrelation.
+* [A Gentle Introduction to Exponential Smoothing](https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/)
+* [Introduction to Simple Exponential Smoothing (SES) (Article)](https://www.statisticshowto.datasciencecentral.com/exponential-smoothing/)
+* [Holt Winters Forecasting for Dummies (Article)](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/)
+* [Autoregression Models for Time Series Forecasting With Python (Article)](https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/)
+* [Time Series Analysis in Python (Article)](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
+* [A Gentle Introduction to Autocorrelation and Partial Autocorrelation (Article)](https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/)
+* [ARIMA models in Python (Article)](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
+* [What a p-value tells you about Statistical Data (Article)](https://www.dummies.com/education/math/statistics/what-a-p-value-tells-you-about-statistical-data/)
+* [A Gentle Introduction to Box-Jenkins Models (Article)](https://machinelearningmastery.com/gentle-introduction-box-jenkins-method-time-series-forecasting/)
 
 ## Text & NLP
 

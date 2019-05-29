@@ -133,6 +133,10 @@ How to auto-generate requirements.txt using pip freeze
 
 * [Scala Docs (Tutorial)](https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html) Getting started guide.
 * [Scala Exercises (Tutorial)](https://www.scala-exercises.org/scala_tutorial/terms_and_types) Beginner level tutorial.
+
+## Spark
+
+* [Setting up Databricks on AWS](https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html)
 * [Just Enough Scala for Spark](https://github.com/deanwampler/JustEnoughScalaForSpark) Introduction to Scala for interfacing with Spark DataFrame and RDD APIs. 
 
 ## SQL

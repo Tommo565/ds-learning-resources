@@ -137,7 +137,8 @@ How to auto-generate requirements.txt using pip freeze
 ## Spark
 
 * [Setting up Databricks on AWS](https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html)
-* [Just Enough Scala for Spark](https://github.com/deanwampler/JustEnoughScalaForSpark) Introduction to Scala for interfacing with Spark DataFrame and RDD APIs. 
+* [Just Enough Scala for Spark](https://github.com/deanwampler/JustEnoughScalaForSpark) Introduction to Scala for interfacing with Spark DataFrame and RDD APIs.
+* [Connecting to Databricks with databricks-connect](https://docs.azuredatabricks.net/user-guide/dev-tools/db-connect.html)
 
 ## SQL
 

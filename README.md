@@ -121,6 +121,7 @@ How to auto-generate requirements.txt using pip freeze
 * [Jupyter Shortcuts (Article)](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html) List of shortcuts for Jupyter notebooks.
 * [28 Jupyter Tips](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) Some cool tricks in Jupyter notebooks.
 * [Running Dask with SciKitLearn (Notebook)](http://matthewrocklin.com/blog/work/2017/02/07/dask-sklearn-simple) Jupyter Notebook showing how you can speed up SKL Grid/Random Searches using Dask.
+* [Testing with NumPy and Pandas](https://penandpants.com/2014/10/07/testing-with-numpy-and-pandas/)
 
 ## R
 

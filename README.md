@@ -16,6 +16,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [KDNuggets](https://www.kdnuggets.com/news/index.html) General data science news site.
 * [Data Elixir](https://dataelixir.com/issue/?num=215?sid=AsoKPSC#start) General data science news site.
 * [The Machine Learning Engineer Newsletter](https://ethical.institute/mle.html)  Weekly newsletter focusing on Ethical AI & ML and Machine Learning Operations.
+* [Machine Learning Datasets](https://drive.google.com/file/d/1Ne-Xw5Gh5ZCQ-3CQkY072FTxLiK0QOC1/view) Several links to good datasets for all aspects of ML.
 
 ## General Data Science
 

@@ -98,6 +98,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Hitchhiker's Guide to Python (Online Book)](http://docs.python-guide.org/en/latest/) A daily usage "best practice handbook" for Python. The section on [code structure and style](http://docs.python-guide.org/en/latest/#writing-great-python-code) is particularly good.
 * [Parallel Processing in Python (Tutorial)](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) Tutorial on multithreading and multiprocessing. 
 * [Python Code Tips](http://book.pythontips.com/en/latest/generators.html) Good online resource with sections on generators, debigging, map/filter/reduce, and more.
+* [Unit-tests: Mocking, Monkey Patching & Faking Functionality](https://codefellows.github.io/sea-python-401d7/lectures/mock.html) Excellent introduction to some more advanced unit-test concepts using pytest.
 
 ### Flask
 

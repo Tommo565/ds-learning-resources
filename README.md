@@ -96,6 +96,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 ### General
 
 * [Hitchhiker's Guide to Python (Online Book)](http://docs.python-guide.org/en/latest/) A daily usage "best practice handbook" for Python. The section on [code structure and style](http://docs.python-guide.org/en/latest/#writing-great-python-code) is particularly good.
+* [strftime.org](https://github.com/Tommo565/intro-to-python-delivery-notes) Excellent resource for time formats in Python & Pandas
 * [Parallel Processing in Python (Tutorial)](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) Tutorial on multithreading and multiprocessing. 
 * [Python Code Tips](http://book.pythontips.com/en/latest/generators.html) Good online resource with sections on generators, debigging, map/filter/reduce, and more.
 * [Unit-tests: Mocking, Monkey Patching & Faking Functionality](https://codefellows.github.io/sea-python-401d7/lectures/mock.html) Excellent introduction to some more advanced unit-test concepts using pytest.
@@ -115,6 +116,7 @@ How to auto-generate requirements.txt using pip freeze
 * [Python for Data Analysis & Visualisation (Udemy Course)](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/) Excellent intro to the data analyis libraries in Python.
 * [Python for Data Science & Machine Learning (Udemy Course)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) Very good introduction to Python for Data Science.
 * [Python for Analysts (Github Repo)](https://github.com/Tommo565/Python-for-Analysts) Tom's Python for analysts training course. This probably needs updating.
+* [Chris Albon's site](https://chrisalbon.com/) Chris Albon's site with an excellent set of tutorials on how to do data things in Python.
 * [Exploratory Data Analysis in Python (EBook)](http://greenteapress.com/thinkstats2/thinkstats2.pdf) Excellent book on statistical data analysis in Python.
 * [Python Graph Gallery (Website)](https://python-graph-gallery.com/) Gallery of lots of Python charts complete with source code.
 * [Using Jupyter Notebooks in Virtualenv](https://anbasile.github.io/programming/2017/06/25/jupyter-venv/)

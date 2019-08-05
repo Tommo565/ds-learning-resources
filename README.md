@@ -31,11 +31,12 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Distributions CheatSheet (Article)](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/) Good overview of various distributions.
 * [Distributions (Articles)](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/basic-statistics/probability-distributions/supporting-topics/distributions/bernoulli-distribution/) Detailed overview of various data distributions.
 
-## General Data Engineering
+## Data Engineering
 
 * [Beginners Guide to Data Engineering Part 1](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)  
 * [Beginners Guide to Data Engineering Part 2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)  
 * [Beginners Guide to Data Engineering Part 3](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)  
+* [Comprehensive List of Data Engineering Resouces](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/) Great list of Data Engineering orientation and learning material.
 
 ## Machine Learning
 

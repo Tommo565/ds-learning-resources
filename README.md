@@ -151,10 +151,11 @@ How to auto-generate requirements.txt using pip freeze
 
 * [Complete SQL Bootcamp (Udemy Course)](https://www.udemy.com/the-complete-sql-bootcamp/) Intro to SQL and PostgreSQL.
 
-## Linux / Command Line
+## Linux / Docker / Command Line
 
 * [Setting up Ubuntu for Windows](https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/)
 * [Getting Started with Anaconda and Docker](https://medium.com/@patrickmichelberger/getting-started-with-anaconda-docker-b50a2c482139)
+* [Running a Dockerized Jupyter Server for Data Science](https://www.dataquest.io/blog/docker-data-science/)
 
 ## Javascript / Web Development
 

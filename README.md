@@ -59,6 +59,10 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Heteroscedasticity Explained (Article)](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
 * [Understanding Regression Error (Article)](https://www.dataquest.io/blog/understanding-regression-error-metrics)
 
+## Deep Learning
+
+* [Choosing # hidden layers / nodes in a NN](https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw)
+
 ## Time Series (Primarily Python)
 
 * [Python Date / Time Formats (Reference)](http://strftime.org/) Reference site for Python date / time formats

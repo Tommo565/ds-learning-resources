@@ -37,6 +37,7 @@ A list of resources that I've found handy in my work as a Data Scientist.
 * [Data Elixir](https://dataelixir.com/issue/?num=215?sid=AsoKPSC#start) General data science news site.
 * [The Machine Learning Engineer Newsletter](https://ethical.institute/mle.html)  Weekly newsletter focusing on Ethical AI & ML and Machine Learning Operations.
 * [Machine Learning Datasets](https://drive.google.com/file/d/1Ne-Xw5Gh5ZCQ-3CQkY072FTxLiK0QOC1/view) Several links to good datasets for all aspects of ML.
+* [Chris Albon's site](https://chrisalbon.com/) Chris Albon's site with an excellent set of tutorials on how to do cool data things in Python.
 
 ## General Data Science
 
@@ -48,8 +49,8 @@ A list of resources that I've found handy in my work as a Data Scientist.
 
 ## Statistics
 
-* [Distributions CheatSheet (Article)](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/) Good overview of various distributions.
-* [Distributions (Articles)](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/basic-statistics/probability-distributions/supporting-topics/distributions/bernoulli-distribution/) Detailed overview of various data distributions.
+* [Distributions CheatSheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/) Good overview of various distributions.
+* [Distributions](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/basic-statistics/probability-distributions/supporting-topics/distributions/bernoulli-distribution/) Detailed overview of various data distributions.
 
 ## Data Engineering
 
@@ -64,25 +65,24 @@ A list of resources that I've found handy in my work as a Data Scientist.
 
 ## Machine Learning
 
-* [Machine Learning Rules (Article)](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.
+* [Machine Learning Rules](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.
 * [R2D3](http://www.r2d3.us/) Visual introduction to Machine Learning.
-* [Machine Learning Yearning (eBook)](https://docs.wixstatic.com/ugd/90cb81_986a76c2e182457c951d1f649bbe05f3.pdf) Book by Andrew Ng on technical strategy for ML + AI.
+* [Machine Learning Yearning](https://docs.wixstatic.com/ugd/90cb81_986a76c2e182457c951d1f649bbe05f3.pdf) Book by Andrew Ng on technical strategy for ML + AI.
 * [ML for Coders](https://course.fast.ai/ml) Good looking course on learning ML from the perspective of a coder.
 * [Conputational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) Another fast.ai course on applied Linear Algebra.
 * [Practical Deep Learning for Coders](https://course.fast.ai/) 7 week fast.ai course on Deep Learning for coders.
 * [Mathmatics for Machine Learning](https://mml-book.github.io/) Book (in progress) about learning the maths behind ML
-* [Data Science Primer (Tutorial)](https://elitedatascience.com/primer) Overview of the steps in building a Machine Learning model.  
-* [Getting Better at Machine Learning (Article)](https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f)  
-* [Time Series Forcasting with Naive Bayes (Article + Notebook)](https://github.com/departmentfortransport/ds-learning-resources) Good step by step guide to time series forecasting with Naive Bayes and a great example notebook.  
-* [What is Feature Engineering? (Article)](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)
-* [What is One Hot Encoding? (Article)](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
-* [Introduction to K-Nearest Neighbours (Article)](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26) Good intro to Knn
-* [Practical Guide to SVM Classification (Paper)](https://www.csie.ntu.edu.tw/~r95162/guide.pdf)  
-* [Understanding the SVM Kernel Trick (Article)](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78)  
-* [Visualising Multivariate Data (Article)](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
-* [WTF is the bias/variance tradeoff? (Article)](https://elitedatascience.com/bias-variance-tradeoff)
-* [Heteroscedasticity Explained (Article)](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
-* [Understanding Regression Error (Article)](https://www.dataquest.io/blog/understanding-regression-error-metrics)
+* [Data Science Primer](https://elitedatascience.com/primer) Overview of the steps in building a Machine Learning model.  
+* [Getting Better at Machine Learning](https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f)  
+* [What is Feature Engineering?](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)
+* [What is One Hot Encoding?](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
+* [Introduction to K-Nearest Neighbours](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26) Good intro to Knn
+* [Practical Guide to SVM Classification](https://www.csie.ntu.edu.tw/~r95162/guide.pdf)  
+* [Understanding the SVM Kernel Trick](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78)  
+* [Visualising Multivariate Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
+* [WTF is the bias/variance tradeoff?](https://elitedatascience.com/bias-variance-tradeoff)
+* [Heteroscedasticity Explained](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
+* [Understanding Regression Error](https://www.dataquest.io/blog/understanding-regression-error-metrics)
 
 ## Deep Learning
 
@@ -90,72 +90,72 @@ A list of resources that I've found handy in my work as a Data Scientist.
 
 ## Time Series (Primarily Python)
 
-* [Python Date / Time Formats (Reference)](http://strftime.org/) Reference site for Python date / time formats
-* [Pandas Frequency Codes (Reference)](https://stackoverflow.com/questions/35339139/where-is-the-documentation-on-pandas-freq-tags) Reference for Pandas frequency codes
-* [Pandas Time Series / Date Functionality (Reference)](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
-* [Pandas Date Offset (Reference)](http://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset-objects)
-* [Pandas Timestamp Reference (Reference)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Timestamp.html)
-* [Pandas date_range Reference (Reference)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html)
-* [Pandas Timedelta Reference (Reference)](https://pandas.pydata.org/pandas-docs/stable/user_guide/timedeltas.html)
-* [Pandas Date Offset Reference (Reference)](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#timeseries-offset-aliases)
-* [Python datetime Reference (Reference)](https://docs.python.org/3/library/datetime.html)
-* [What is Autocorrelation (Article)](https://www.displayr.com/autocorrelation/)
-* [Autocorrelation Plot (Correlogram)](https://www.dummies.com/programming/big-data/data-science/autocorrelation-plots-graphical-technique-for-statistical-data/) Explanation of an Autocorrelation plot.
+* [Python Date / Time Formats](http://strftime.org/) Reference site for Python date / time formats
+* [Pandas Frequency Codes](https://stackoverflow.com/questions/35339139/where-is-the-documentation-on-pandas-freq-tags) Reference for Pandas frequency codes
+* [Pandas Time Series / Date Functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
+* [Pandas Date Offset](http://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset-objects)
+* [Pandas Timestamp Reference](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Timestamp.html)
+* [Pandas date_range Reference](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html)
+* [Pandas Timedelta Reference](https://pandas.pydata.org/pandas-docs/stable/user_guide/timedeltas.html)
+* [Pandas Date Offset Reference](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#timeseries-offset-aliases)
+* [Python datetime Reference](https://docs.python.org/3/library/datetime.html)
+* [What is Autocorrelation](https://www.displayr.com/autocorrelation/)
+* [Autocorrelation Plot](https://www.dummies.com/programming/big-data/data-science/autocorrelation-plots-graphical-technique-for-statistical-data/) Explanation of an Autocorrelation plot.
 * [Autocorrelation in Python](https://s3.amazonaws.com/assets.datacamp.com/production/course_4267/slides/chapter2.pdf) Datacamp slide deck of autocorrelation.
 * [A Gentle Introduction to Exponential Smoothing](https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/)
-* [Introduction to Simple Exponential Smoothing (SES) (Article)](https://www.statisticshowto.datasciencecentral.com/exponential-smoothing/)
-* [Holt Winters Forecasting for Dummies (Article)](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/)
-* [Autoregression Models for Time Series Forecasting With Python (Article)](https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/)
-* [Time Series Analysis in Python (Article)](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
-* [A Gentle Introduction to Autocorrelation and Partial Autocorrelation (Article)](https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/)
+* [Introduction to Simple Exponential Smoothing (SES)](https://www.statisticshowto.datasciencecentral.com/exponential-smoothing/)
+* [Holt Winters Forecasting for Dummies](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/)
+* [Autoregression Models for Time Series Forecasting With Python](https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/)
+* [Time Series Analysis in Python](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
+* [A Gentle Introduction to Autocorrelation and Partial Autocorrelation](https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/)
 * [ARIMA models in Python (Article)](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
-* [What a p-value tells you about Statistical Data (Article)](https://www.dummies.com/education/math/statistics/what-a-p-value-tells-you-about-statistical-data/)
-* [A Gentle Introduction to Box-Jenkins Models (Article)](https://machinelearningmastery.com/gentle-introduction-box-jenkins-method-time-series-forecasting/)
+* [What a p-value tells you about Statistical Data](https://www.dummies.com/education/math/statistics/what-a-p-value-tells-you-about-statistical-data/)
+* [A Gentle Introduction to Box-Jenkins Models](https://machinelearningmastery.com/gentle-introduction-box-jenkins-method-time-series-forecasting/)
+* [Time Series Forcasting with Naive Bayes](https://github.com/departmentfortransport/ds-learning-resources) Good step by step guide to time series forecasting with Naive Bayes and a great example notebook.  
 
 ## Text & NLP
 
-* [Regex Tester & Debugger (Tool)](https://www.regextester.com/) Great tool for creating and debugging Regular Expressions.
-* [Text Classification (Article)](https://developers.google.com/machine-learning/guides/text-classification/) Google's guide to text classification.
+* [Regex Tester & Debugger](https://www.regextester.com/) Great tool for creating and debugging Regular Expressions.
+* [Text Classification](https://developers.google.com/machine-learning/guides/text-classification/) Google's guide to text classification.
 
 ## Geographic
 
-* [Mapshaper (Tool)](http://mapshaper.org/) Online editor for map data. Allows you to take most GIS data formats and visualise / simplify them.
+* [Mapshaper](http://mapshaper.org/) Online editor for map data. Allows you to take most GIS data formats and visualise / simplify them.
 
 ## Python
 
 ### General
 
-* [Hitchhiker's Guide to Python (Online Book)](http://docs.python-guide.org/en/latest/) A daily usage "best practice handbook" for Python. The section on [code structure and style](http://docs.python-guide.org/en/latest/#writing-great-python-code) is particularly good.
+* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) A daily usage "best practice handbook" for Python. The section on [code structure and style](http://docs.python-guide.org/en/latest/#writing-great-python-code) is particularly good.
 * [strftime.org](https://github.com/Tommo565/intro-to-python-delivery-notes) Excellent resource for time formats in Python & Pandas
-* [Parallel Processing in Python (Tutorial)](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) Tutorial on multithreading and multiprocessing. 
+* [Parallel Processing in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b) Tutorial on multithreading and multiprocessing. 
 * [Python Code Tips](http://book.pythontips.com/en/latest/generators.html) Good online resource with sections on generators, debigging, map/filter/reduce, and more.
 * [Unit-tests: Mocking, Monkey Patching & Faking Functionality](https://codefellows.github.io/sea-python-401d7/lectures/mock.html) Excellent introduction to some more advanced unit-test concepts using pytest.
 
 ### Flask
 
-* [Miguel Grinberg's Flask Blog (Website)](https://blog.miguelgrinberg.com/index) Lots of tutorials on various Flask features.
+* [Miguel Grinberg's Flask Blog](https://blog.miguelgrinberg.com/index) Lots of tutorials on various Flask features.
 * [Creating a REST API with Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask) How to create a REST API with Flask.
-* [Auto Generating Requirements.txt (Article)](https://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/) 
+* [Auto Generating Requirements.txt](https://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/) 
 How to auto-generate requirements.txt using pip freeze
-* [A Template for a good README (MD Template)](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) Good template to follow when creating a README.md.
-* [How to make a Python Package (Tutorial)](https://python-packaging.readthedocs.io/en/latest/minimal.html) Great guide on how to make a Python package.
+* [A Template for a good README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) Good template to follow when creating a README.md.
+* [How to make a Python Package](https://python-packaging.readthedocs.io/en/latest/minimal.html) Great guide on how to make a Python package.
 
 ### Data Science / Analysis
 
-* [Complete Python Bootcamp (Udemy Course)](https://www.udemy.com/complete-python-bootcamp/) Really good introduction to Python using Jupyter Notebooks.
-* [Python for Data Analysis & Visualisation (Udemy Course)](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/) Excellent intro to the data analyis libraries in Python.
-* [Python for Data Science & Machine Learning (Udemy Course)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) Very good introduction to Python for Data Science.
-* [Python for Analysts (Github Repo)](https://github.com/Tommo565/Python-for-Analysts) Tom's Python for analysts training course. This probably needs updating.
-* [Chris Albon's site](https://chrisalbon.com/) Chris Albon's site with an excellent set of tutorials on how to do data things in Python.
+* [Complete Python Bootcamp](https://www.udemy.com/complete-python-bootcamp/) Really good introduction to Python using Jupyter Notebooks.
+* [Python for Data Analysis & Visualisation](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/) Excellent intro to the data analyis libraries in Python.
+* [Python for Data Science & Machine Learning](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) Very good introduction to Python for Data Science.
+* [Python for Analysts](https://github.com/Tommo565/Python-for-Analysts) Tom's Python for analysts training course. This probably needs updating.
 * [Exploratory Data Analysis in Python (EBook)](http://greenteapress.com/thinkstats2/thinkstats2.pdf) Excellent book on statistical data analysis in Python.
 * [Python Graph Gallery (Website)](https://python-graph-gallery.com/) Gallery of lots of Python charts complete with source code.
 * [Using Jupyter Notebooks in Virtualenv](https://anbasile.github.io/programming/2017/06/25/jupyter-venv/)
-* [Flask for Web Development (Book)](https://www.amazon.co.uk/Flask-Web-Development-Developing-Applications/dp/1449372627) Book detailing end to end web development with Flask.
-* [Datashader with Spark (Article)](http://www.filipyoo.com/plot-visualization-Hadoop-large-dataset-with-python-datashader/) Blog detailing an example of how to use Datashader with big data.
-* [JupyterLab Extensions (Documentation)](http://jupyterlab.readthedocs.io/en/stable/user/extensions.html) How to install JupyterLab extensions.
-* [Jupyter Shortcuts (Article)](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html) List of shortcuts for Jupyter notebooks.
+* [Flask for Web Development](https://www.amazon.co.uk/Flask-Web-Development-Developing-Applications/dp/1449372627) Book detailing end to end web development with Flask.
+* [Datashader with Spark](http://www.filipyoo.com/plot-visualization-Hadoop-large-dataset-with-python-datashader/) Blog detailing an example of how to use Datashader with big data.
+* [JupyterLab Extensions](http://jupyterlab.readthedocs.io/en/stable/user/extensions.html) How to install JupyterLab extensions.
+* [Jupyter Shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html) List of shortcuts for Jupyter notebooks.
 * [28 Jupyter Tips](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) Some cool tricks in Jupyter notebooks.
-* [Running Dask with SciKitLearn (Notebook)](http://matthewrocklin.com/blog/work/2017/02/07/dask-sklearn-simple) Jupyter Notebook showing how you can speed up SKL Grid/Random Searches using Dask.
+* [Running Dask with SciKitLearn](http://matthewrocklin.com/blog/work/2017/02/07/dask-sklearn-simple) Jupyter Notebook showing how you can speed up SKL Grid/Random Searches using Dask.
 * [Testing with NumPy and Pandas](https://penandpants.com/2014/10/07/testing-with-numpy-and-pandas/)
 
 ## R
@@ -163,12 +163,12 @@ How to auto-generate requirements.txt using pip freeze
 * [R for Data Science](http://r4ds.had.co.nz/) A good starting point for learning modern R with the Tidyverse style code.
 * [Advanced R](http://adv-r.had.co.nz/) Useful when you want to understand the underlying processes of R and write more advanced code (for example, [object orientated programming in R](http://adv-r.had.co.nz/OO-essentials.html))
 * [R packages](http://r-pkgs.had.co.nz/) A good reference book when structuring your code as a package (what files go where + how to handle package imports etc)
-* [R Graph Gallery (Website)](https://www.r-graph-gallery.com/) Gallery of lots of R charts complete with source code.
+* [R Graph Gallery](https://www.r-graph-gallery.com/) Gallery of lots of R charts complete with source code.
 
 ## Scala
 
-* [Scala Docs (Tutorial)](https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html) Getting started guide.
-* [Scala Exercises (Tutorial)](https://www.scala-exercises.org/scala_tutorial/terms_and_types) Beginner level tutorial.
+* [Scala Docs](https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html) Getting started guide.
+* [Scala Exercises](https://www.scala-exercises.org/scala_tutorial/terms_and_types) Beginner level tutorial.
 
 ## Spark
 
@@ -190,28 +190,28 @@ How to auto-generate requirements.txt using pip freeze
 
 ### Testing
 
-* [MS VM Images (Tool)](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) Images of windows machines to allow testing on IE. Note you'll need to install Virtualbox first via `brew cask install virtualbox`
+* [MS VM Images](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) Images of windows machines to allow testing on IE. Note you'll need to install Virtualbox first via `brew cask install virtualbox`
 
 ### Javascript
 
-* [The Complete Web Developer Course (Udemy Course)](https://www.udemy.com/the-complete-web-developer-course-2/) Excellent intro to HTML/CSS/JS as well as packages such as Bootstrap & JQuery.
-* [HTML Elements Reference (Reference)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) Complete list of all HTML elements.
-* [List of Special Characters (Reference)](https://css-tricks.com/snippets/html/glyphs/)  Codes and decodes for special characters in HTML.
-* [#Javascript30 (Tutorial)](https://javascript30.com/) Vanilla JS tutorial where you learn by building websites.
-* [Git a Web Developer Job (Udemy Course)](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) Online course that makes the jump from writing HTML/CSS/JS to writing modern web applications using dev tools like git, webpack and babel.
-* [Guide to 'this' (Article)](http://davidshariff.com/blog/javascript-this-keyword/) Great guide on how to use `this` in JS.
-* [Setting up React, Webpack and Babel (Article)](https://www.valentinog.com/blog/react-webpack-babel/) How to set up your development environment using React, Webpack and Babel.
-* [How to set up Webpack 4 (Article)](https://www.valentinog.com/blog/webpack-tutorial/) How to set up Webpack 4.0.
-* [Switching from Gulp to Webpack (Article)](https://www.valentinog.com/blog/from-gulp-to-webpack-4-tutorial/) Need to evaluate this...
-* [End to End Testing (Article)](https://www.valentinog.com/blog/javascript-end-to-end-testing-cypress/) Need to evaluate this...
+* [The Complete Web Developer Course](https://www.udemy.com/the-complete-web-developer-course-2/) Excellent intro to HTML/CSS/JS as well as packages such as Bootstrap & JQuery.
+* [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) Complete list of all HTML elements.
+* [List of Special Characters](https://css-tricks.com/snippets/html/glyphs/)  Codes and decodes for special characters in HTML.
+* [#Javascript30](https://javascript30.com/) Vanilla JS tutorial where you learn by building websites.
+* [Git a Web Developer Job](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) Online course that makes the jump from writing HTML/CSS/JS to writing modern web applications using dev tools like git, webpack and babel.
+* [Guide to 'this'](http://davidshariff.com/blog/javascript-this-keyword/) Great guide on how to use `this` in JS.
+* [Setting up React, Webpack and Babel](https://www.valentinog.com/blog/react-webpack-babel/) How to set up your development environment using React, Webpack and Babel.
+* [How to set up Webpack 4](https://www.valentinog.com/blog/webpack-tutorial/) How to set up Webpack 4.0.
+* [Switching from Gulp to Webpack](https://www.valentinog.com/blog/from-gulp-to-webpack-4-tutorial/)
+* [End to End Testing](https://www.valentinog.com/blog/javascript-end-to-end-testing-cypress/)
 
 ### D3
-* [D3 Is not a Data Visualisation Library (Article)](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520) Excellent intro to D3.
+* [D3 Is not a Data Visualisation Library](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520) Excellent intro to D3.
 
 ### React
-* [How to React (Article)](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
-* [Intro to React (Article)](https://hackernoon.com/reacting-to-react-js-10ff1d50a36c) Excellent intro to React incorporating props, state and JSX.
-* [Redux Tutorial (Article)](https://www.valentinog.com/blog/react-redux-tutorial-beginners/) Very good intro to Redux and React-redux.
+* [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
+* [Intro to React](https://hackernoon.com/reacting-to-react-js-10ff1d50a36c) Excellent intro to React incorporating props, state and JSX.
+* [Redux Tutorial](https://www.valentinog.com/blog/react-redux-tutorial-beginners/) Very good intro to Redux and React-redux.
 
 ## Git
 * [Github - Resources to learn Git](https://try.github.io/) List of good resources to learn git.
@@ -225,26 +225,25 @@ How to auto-generate requirements.txt using pip freeze
 
 ## Data Visualisation
 
-* [DataVizCatalogue (Website)](https://datavizcatalogue.com/) Nice overview of various chart types and alongside some links to code (usually in Javascript)
+* [DataVizCatalogue](https://datavizcatalogue.com/) Overview of various chart types and alongside some links to code (usually in Javascript)
 
-## Design
+## Design & Presentations
 
-* [Material Palette (Website)](https://www.materialpalette.com/) Generates nice colours for an app or design
-* [Cooloors (Website)](https://coolors.co/c5ebc3-b7c8b5-a790a5-875c74-54414e) Site that helps you generate good color palettes
-* [Viz Palette (Website)](http://projects.susielu.com/viz-palette) Site that helps you make nice colour palettes
-* [Unsplash (Website)](https://unsplash.com/) Royalty free high-res photos
-* [TheStocks (Website)](http://thestocks.im/) Royalty free photos
-* [ISORepublic (Website)](https://isorepublic.com/) Royalty free photos
-* [Pixabay (Website)](https://pixabay.com/en/) Royalty free photos
-* [Subtle Patterns (Website)](https://www.toptal.com/designers/subtlepatterns/) Tiled Patterns for sites & presentations
+* [Canva ($)](https://www.canva.com/) Design web-app aimed at non-designers. Has a good free tier.
+* [Material Palette](https://www.materialpalette.com/) Generates nice colours for an app or design
+* [Cooloors](https://coolors.co/c5ebc3-b7c8b5-a790a5-875c74-54414e) Site that helps you generate good color palettes
+* [Viz Palette](http://projects.susielu.com/viz-palette) Site that helps you make nice colour palettes
+* [Unsplash](https://unsplash.com/) Royalty free high-res photos
+* [TheStocks](http://thestocks.im/) Royalty free photos
+* [ISORepublic](https://isorepublic.com/) Royalty free photos
+* [Pixabay](https://pixabay.com/en/) Royalty free photos
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) Tiled Patterns for sites & presentations
 * [FlatIcon](https://www.flaticon.com/search?word=box) Lots of free downloadable icons.
-* [Dribbble (Website)](https://dribbble.com/) Nice site for inspiration on designs
-* [SiteInspire (Website)](https://www.siteinspire.com/) Showcase of good, responsive website design
-* [MediaQueries (Website)](https://mediaqueri.es/2/) Showcase of good, responsive website design
+* [Dribbble](https://dribbble.com/) Nice site for inspiration on designs
+* [SiteInspire](https://www.siteinspire.com/) Showcase of good, responsive website design
+* [MediaQueries](https://mediaqueri.es/2/) Showcase of good, responsive website design
 
 ## Data
-
-Also see [departmentfortransport/ds-data-sources](https://github.com/departmentfortransport/ds-data-sources).
 
 * [Random User Data](https://randomuser.me/) Generates random user data through an API
 * [UCI ML Data](https://archive.ics.uci.edu/ml/datasets.html) Hundreds of datasets well suited to applying ML to.

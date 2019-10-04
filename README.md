@@ -38,6 +38,10 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Beginners Guide to Data Engineering Part 3](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)  
 * [Comprehensive List of Data Engineering Resouces](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/) Great list of Data Engineering orientation and learning material.
 
+## General Software Development
+
+* [The Twelve Factor App](https://12factor.net) Excellent resource for good application design.
+
 ## Machine Learning
 
 * [Machine Learning Rules (Article)](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.

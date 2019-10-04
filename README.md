@@ -1,11 +1,13 @@
 # Learning Resources
 
-A repo for us to share good learning resources, tutorials, cheat-sheets etc. as well as resources that can make people's lives easier. Please link to actual and specific resources rather than API references, websites, collections etc. Please also indicate in the title what kind of resource it is (e.g. book, tutorial, video etc.)
+A list of resources
 
-## Text Editors
+## Text Editors / Terminals
 
+* [Sublime Text Cheatsheet (Mac)](https://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/)
 * [Sublime Text Cheatsheet (Mac)](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac/cheatsheet)
-* [Another Sublime Text Cheatsheet](https://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/)
+* [Sublime Text Cheatsheet (Windows)](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
+
 
 ## General Resources & News Sites
 

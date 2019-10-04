@@ -36,11 +36,11 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Beginners Guide to Data Engineering Part 1](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)  
 * [Beginners Guide to Data Engineering Part 2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)  
 * [Beginners Guide to Data Engineering Part 3](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)  
-* [Comprehensive List of Data Engineering Resouces](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/) Great list of Data Engineering orientation and learning material.
+* [Comprehensive List of Data Engineering Resouces](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/) List of Data Engineering orientation and learning material.
 
 ## General Software Development
 
-* [The Twelve Factor App](https://12factor.net) Excellent resource for good application design.
+* [The Twelve Factor App](https://12factor.net) Resource detailing 12 principles for scalable application design.
 
 ## Machine Learning
 
@@ -71,7 +71,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 ## Time Series (Primarily Python)
 
 * [Python Date / Time Formats (Reference)](http://strftime.org/) Reference site for Python date / time formats
-* [Pandas Frequency Codes (Reference)](https://stackoverflow.com/questions/35339139/where-is-the-documentation-on-pandas-freq-tags)
+* [Pandas Frequency Codes (Reference)](https://stackoverflow.com/questions/35339139/where-is-the-documentation-on-pandas-freq-tags) Reference for Pandas frequency codes
 * [Pandas Time Series / Date Functionality (Reference)](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
 * [Pandas Date Offset (Reference)](http://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset-objects)
 * [Pandas Timestamp Reference (Reference)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Timestamp.html)

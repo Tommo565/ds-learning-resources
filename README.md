@@ -1,13 +1,31 @@
 # Learning Resources
 
-A list of resources
+A list of resources that I've found handy in my work as a Data Scientist. 
 
-## Text Editors / Terminals
+## General Tools
 
+* [Anaconda](https://www.anaconda.com/) A managed Python distribution tailored for data analysis and data science.
+* [Brew (Mac)](https://brew.sh/) A package manager for Mac.
+* [Scoop (Windows)](https://scoop.sh/) A package manager for Windows.
+* [Docker](https://www.docker.com/) Containerisation engine that allows easy deployment of apps and environemnts.
+* [Github Desktop](https://desktop.github.com/) UI for Github.
+* [Sourcetree](https://www.sourcetreeapp.com/) UI for Git.
+
+### Text Editors / Command Line Tools / IDEs
+
+### Tools
+* [Sublime Text ($)](https://www.sublimetext.com/) Popular extensible text editor.
+* [Atom](https://atom.io/) Popular open source text editor from Github. Has integration with Jupyter notebooks.
+* [IntelliJ IDEA ($)](https://www.jetbrains.com/idea/) Popular IDE from JetBrains. Also encompasses PyCharm.
+* [Visual Studio ($)](https://visualstudio.microsoft.com/) Popular IDE from Microsoft. Also the best way to install C dependencies.
+* [Iterm2 (Mac)](https://www.iterm2.com/) Improved command line environment for Mac.
+* [cmder (Windows)](https://cmder.net) Improved Command line environment for Windows.
+
+### Tutorials
 * [Sublime Text Cheatsheet (Mac)](https://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/)
 * [Sublime Text Cheatsheet (Mac)](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac/cheatsheet)
-* [Sublime Text Cheatsheet (Windows)](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
-
+* [Installing Iterm2 + zsh + oh-my-zsh (Mac)](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
+* [Setting up git and cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
 
 ## General Resources & News Sites
 

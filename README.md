@@ -10,7 +10,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 ## General Resources & News Sites
 
 * [Data Science @ Reddit](https://www.reddit.com/r/datascience/) Subreddit and a good place to ask more general data science questions.
-* [Data Science @ Medium](xhttps://medium.com/topic/data-science) Blog and article site with a Data Science sub-section.
+* [Data Science @ Medium](https://medium.com/topic/data-science) Blog and article site with a Data Science sub-section.
 * [Towards Data Science](https://towardsdatascience.com/) Medium based news and articles site.
 * [Kaggle](https://www.kaggle.com/) Branded as the home of Data Science and the place to do data science projects. Has some good data and competitions also.
 * [KDNuggets](https://www.kdnuggets.com/news/index.html) General data science news site.
@@ -22,7 +22,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 
 * [How to Start in Data Science (Article)](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAA%2B9IAErD%2BGVz8GcpV%2FsBw%3D%3D) Article on how to get started in Data Science.
 * [Deep Learning Cheat Sheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460) Deep Learning cheat sheet containing high-level descriptions of the various functions.
-* [How to become a Data Scientist in 6 months (Video)](https://www.youtube.com/watch?v=rIofV14c0tc) Video detailing some excellent high level advice on becoming a data scientist.
+* [How to become a Data Scientist in 6 months (Video)](https://www.youtube.com/watch?v=rIofV14c0tc) Video detailing some high level advice on becoming a data scientist.
 * [Datacamp Cheat Sheets (Article)](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp. 
 * [Seven Practical Ideas for Beginner Data Scientists (Article)](https://medium.com/nulogy/seven-practical-ideas-for-beginner-data-scientists-9af97aeb88ab)  
 
@@ -45,6 +45,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 ## Machine Learning
 
 * [Machine Learning Rules (Article)](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.
+* [R2D3](http://www.r2d3.us/) Visual introduction to Machine Learning.
 * [Machine Learning Yearning (eBook)](https://docs.wixstatic.com/ugd/90cb81_986a76c2e182457c951d1f649bbe05f3.pdf) Book by Andrew Ng on technical strategy for ML + AI.
 * [ML for Coders](https://course.fast.ai/ml) Good looking course on learning ML from the perspective of a coder.
 * [Conputational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) Another fast.ai course on applied Linear Algebra.

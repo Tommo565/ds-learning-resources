@@ -217,6 +217,7 @@ How to auto-generate requirements.txt using pip freeze
 * [ISORepublic (Website)](https://isorepublic.com/) Royalty free photos
 * [Pixabay (Website)](https://pixabay.com/en/) Royalty free photos
 * [Subtle Patterns (Website)](https://www.toptal.com/designers/subtlepatterns/) Tiled Patterns for sites & presentations
+* [FlatIcon](https://www.flaticon.com/search?word=box) Lots of free downloadable icons.
 * [Dribbble (Website)](https://dribbble.com/) Nice site for inspiration on designs
 * [SiteInspire (Website)](https://www.siteinspire.com/) Showcase of good, responsive website design
 * [MediaQueries (Website)](https://mediaqueri.es/2/) Showcase of good, responsive website design

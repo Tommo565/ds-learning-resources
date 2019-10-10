@@ -26,6 +26,7 @@ A list of resources that I've found handy in my work as a Data Scientist.
 * [Sublime Text Cheatsheet (Mac)](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac/cheatsheet)
 * [Installing Iterm2 + zsh + oh-my-zsh (Mac)](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
 * [Setting up git and cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
+* [Gitlab Markdown Guide](https://about.gitlab.com/handbook/product/technical-writing/markdown-guide/)
 
 ## General Resources & News Sites
 

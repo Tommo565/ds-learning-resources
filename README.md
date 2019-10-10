@@ -11,7 +11,7 @@ A list of resources that I've found handy in my work as a Data Scientist.
 * [Github Desktop](https://desktop.github.com/) UI for Github.
 * [Sourcetree](https://www.sourcetreeapp.com/) UI for Git.
 
-### Text Editors / Command Line Tools / IDEs
+### Text Editors / Command Line Tools / IDEs / Markdown
 
 ### Tools
 * [Sublime Text ($)](https://www.sublimetext.com/) Popular extensible text editor.
@@ -27,6 +27,7 @@ A list of resources that I've found handy in my work as a Data Scientist.
 * [Installing Iterm2 + zsh + oh-my-zsh (Mac)](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
 * [Setting up git and cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
 * [Gitlab Markdown Guide](https://about.gitlab.com/handbook/product/technical-writing/markdown-guide/)
+* [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## General Resources & News Sites
 

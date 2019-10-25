@@ -48,6 +48,8 @@ A list of resources that I've found handy in my work as a Data Scientist.
 * [How to become a Data Scientist in 6 months (Video)](https://www.youtube.com/watch?v=rIofV14c0tc) Video detailing some high level advice on becoming a data scientist.
 * [Datacamp Cheat Sheets (Article)](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp. 
 * [Seven Practical Ideas for Beginner Data Scientists (Article)](https://medium.com/nulogy/seven-practical-ideas-for-beginner-data-scientists-9af97aeb88ab)  
+* [Google AI ML Research Publications](https://ai.google/research/pubs/?area=MachineIntelligence)
+* 
 
 ## Statistics
 
@@ -64,6 +66,7 @@ A list of resources that I've found handy in my work as a Data Scientist.
 ## General Software Development
 
 * [The Twelve Factor App](https://12factor.net) Resource detailing 12 principles for scalable application design.
+* [Google AI Software Engineering Research Publications](https://ai.google/research/pubs/?area=SoftwareEngineering)
 
 ## Machine Learning
 

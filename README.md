@@ -139,6 +139,7 @@ A list of resources that I've found handy in my work as a Data Scientist.
 
 ### Flask
 
+* [Awesome Flask List](https://github.com/humiaozuzu/awesome-flask)
 * [Miguel Grinberg's Flask Blog](https://blog.miguelgrinberg.com/index) Lots of tutorials on various Flask features.
 * [Creating a REST API with Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask) How to create a REST API with Flask.
 * [Auto Generating Requirements.txt](https://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/) 

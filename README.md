@@ -70,7 +70,12 @@ A list of resources that I've found handy in my work as a Data Scientist.
 
 ## Machine Learning
 
+* [Organising Machine Learning Projects (Jeremy Jordan)](https://medium.com/comet-ml/organizing-machine-learning-projects-project-management-guidelines-2d2b85651bbd)
 * [Machine Learning Rules](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.
+* [Awesome Machine Learning (Github)](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Production Machine Learning (Github)](https://github.com/EthicalML/awesome-production-machine-learning)
+* [XAI Python Package (Github)](https://github.com/EthicalML/XAI)
+* [The Eight Principle of Etical Machine Learning](https://ethical.institute/principles.html)
 * [R2D3](http://www.r2d3.us/) Visual introduction to Machine Learning.
 * [Machine Learning Yearning](https://docs.wixstatic.com/ugd/90cb81_986a76c2e182457c951d1f649bbe05f3.pdf) Book by Andrew Ng on technical strategy for ML + AI.
 * [ML for Coders](https://course.fast.ai/ml) Good looking course on learning ML from the perspective of a coder.
@@ -88,6 +93,10 @@ A list of resources that I've found handy in my work as a Data Scientist.
 * [WTF is the bias/variance tradeoff?](https://elitedatascience.com/bias-variance-tradeoff)
 * [Heteroscedasticity Explained](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
 * [Understanding Regression Error](https://www.dataquest.io/blog/understanding-regression-error-metrics)
+
+
+
+
 
 ## Deep Learning
 

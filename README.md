@@ -93,9 +93,7 @@ A list of resources that I've found handy in my work as a Data Scientist.
 * [WTF is the bias/variance tradeoff?](https://elitedatascience.com/bias-variance-tradeoff)
 * [Heteroscedasticity Explained](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
 * [Understanding Regression Error](https://www.dataquest.io/blog/understanding-regression-error-metrics)
-
-
-
+* [Intro to Random Forests in Python](https://github.com/WillKoehrsen/Machine-Learning-Projects/blob/master/Random%20Forest%20Tutorial.ipynb)
 
 
 ## Deep Learning

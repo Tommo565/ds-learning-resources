@@ -123,7 +123,8 @@ A list of resources that I've found handy in my work as a Data Scientist.
 * [ARIMA models in Python (Article)](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
 * [What a p-value tells you about Statistical Data](https://www.dummies.com/education/math/statistics/what-a-p-value-tells-you-about-statistical-data/)
 * [A Gentle Introduction to Box-Jenkins Models](https://machinelearningmastery.com/gentle-introduction-box-jenkins-method-time-series-forecasting/)
-* [Time Series Forcasting with Naive Bayes](https://github.com/departmentfortransport/ds-learning-resources) Good step by step guide to time series forecasting with Naive Bayes and a great example notebook.  
+* [Time Series Forcasting with Naive Bayes](https://github.com/departmentfortransport/ds-learning-resources) Good step by step guide to time series forecasting with Naive Bayes and a great example notebook.
+* [Facebook Prophet Explained](https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3) Excellent article explaining more about Prophet Hyperparemeter optimisation.
 
 ## Text & NLP
 

@@ -62,6 +62,7 @@ A list of resources that I've found handy in my work as a Data Scientist.
 * [Beginners Guide to Data Engineering Part 2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)  
 * [Beginners Guide to Data Engineering Part 3](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)  
 * [Comprehensive List of Data Engineering Resouces](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/) List of Data Engineering orientation and learning material.
+* [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 
 ## General Software Development
 

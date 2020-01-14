@@ -174,6 +174,10 @@ How to auto-generate requirements.txt using pip freeze
 * [Testing with NumPy and Pandas](https://penandpants.com/2014/10/07/testing-with-numpy-and-pandas/)
 * [Split / Apply / Combine](https://towardsdatascience.com/how-to-use-the-split-apply-combine-strategy-in-pandas-groupby-29e0eb44b62e)
 
+### Dask
+
+* [A Paractical Guide to Dask](https://www.saturncloud.io/s/practical-guide-to-dask/)
+
 ## R
 
 * [R for Data Science](http://r4ds.had.co.nz/) A good starting point for learning modern R with the Tidyverse style code.
